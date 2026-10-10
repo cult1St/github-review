@@ -6,3 +6,7 @@ function greet_me(){
 function wealth(){
     alert("This is from mr wealth, should work fine here");
 }
+
+function jerry(){
+    alert("This is from Jerry, should work fine here")
+}
