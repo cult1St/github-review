@@ -10,3 +10,7 @@ function wealth(){
 function jerry(){
     alert("This is from Jerry, should work fine here")
 }
+
+function zion(){
+    alert("We are good to go!");
+}
